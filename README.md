@@ -1,12 +1,10 @@
-# jooqÊ¹ÓÃÊµÀý
-demoÊý¾Ý¿â 172.25.10.104:3306 ÓÃ»§Ãûreport_user  ÃÜÂëpingtai666
+ jooqä½¿ç”¨å®žä¾‹
 
-# Ïà¶ÔÓÚmybatisµÄÓÅÊÆ£¬ÅäÖÃºÜ¼òµ¥£¬ºÍspringÕûºÏ²»ÐèÒªÌí¼Ó¶îÍâµÄÅäÖÃÎÄ¼þ£¬Ö»ÐèÒªÒýÈëÏà¹Øjar°ü¾Í¿ÉÒÔÁË,daoÎÄ¼þÒ²²»ÐèÒª×Ô¼ºÐ´
-# Ö±½ÓÓÃgenerate Éú³ÉµÄ¼´¿É£¬Èç¹û»¹²»ÄÜÂú×ã£¬×Ô¼ºÔÚserviceÒýÈëDSLContext Æ´½Ósql´úÂë¼´¿É
+ ç›¸å¯¹äºŽmybatisçš„ä¼˜åŠ¿ï¼Œé…ç½®å¾ˆç®€å•ï¼Œå’Œspringæ•´åˆä¸éœ€è¦æ·»åŠ é¢å¤–çš„é…ç½®æ–‡ä»¶ï¼Œåªéœ€è¦å¼•å…¥ç›¸å…³jaråŒ…å°±å¯ä»¥äº†,daoæ–‡ä»¶ä¹Ÿä¸éœ€è¦è‡ªå·±å†™
+ ç›´æŽ¥ç”¨generate ç”Ÿæˆçš„å³å¯ï¼Œå¦‚æžœè¿˜ä¸èƒ½æ»¡è¶³ï¼Œè‡ªå·±åœ¨serviceå¼•å…¥DSLContext æ‹¼æŽ¥sqlä»£ç å³å¯
 
-# Ïà¶ÔÓÚmybatisµÄÁÓÊÆ£¬sqlÓï¾ä¿´ÆðÀ´²»Ì«ÇåÎú£¬¶¼ÊÇ´úÂë£¬ÕâÒ»µãºÍhibernateÓÐµãÏñ
+ ç›¸å¯¹äºŽmybatisçš„åŠ£åŠ¿ï¼Œsqlè¯­å¥çœ‹èµ·æ¥ä¸å¤ªæ¸…æ™°ï¼Œéƒ½æ˜¯ä»£ç ï¼Œè¿™ä¸€ç‚¹å’Œhibernateæœ‰ç‚¹åƒ
 
-# ¹Ù·½ÎÄµµµØÖ· https://www.jooq.org/doc/3.12/manual/
+ å®˜æ–¹æ–‡æ¡£åœ°å€ https://www.jooq.org/doc/3.12/manual/
 
-#
 
